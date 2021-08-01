@@ -1,5 +1,5 @@
 # fast-api
-learn fastAPI
+Learn fastAPI
 
 # Run
 uvicorn src.main:app --reload
